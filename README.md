@@ -1,0 +1,1 @@
+These are projects built with React and Typescript
